@@ -1,5 +1,7 @@
 # Marketplace de meubles en bois
 
+Lien : https://www.figma.com/file/hAKkwvoYCWAX1Af2yyE7yF/Wood-Picker?node-id=1%3A2&t=1Wn2XMrpggEFypsR-1
+
 Ce projet est une maquette Figma pour une marketplace en ligne qui vend des meubles d'intérieur en bois. Il comprend les éléments suivants :
 
 - Moodboards
