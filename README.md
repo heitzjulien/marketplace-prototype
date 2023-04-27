@@ -40,8 +40,8 @@ Nous avons créé des maquettes pour la page d'accueil, la page boutique et une 
 ## Auteurs
 
 - HEITZ Julien
-- SCHINKEL Benjamin
-- RIMBAULT Lucas 
+- SCHINKEL 
+- RIMBAULT 
 - GBOBLE  
 - Mattis
 - JANUS Alexis 
