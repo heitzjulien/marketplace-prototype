@@ -41,8 +41,8 @@ Nous avons créé des maquettes pour la page d'accueil, la page boutique et une 
 
 - HEITZ Julien
 - SCHINKEL Benjamin
-- RIMBAULT 
-- GBOBLE 
+- RIMBAULT Lucas
+- GBOBLE Djédjé
 - ALMEIDA LIMA Mattis
 - JANUS Alexis 
 - CHABEAU Victor
